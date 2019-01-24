@@ -19,7 +19,7 @@ Le site Web proposera différentes façons de déchiffrer ou de chiffrer des mes
 <img src="https://github.com/fruitsec/appliInfo/blob/master/IMG_20190125_001009.jpg" >
 
 ### Validation du besoin
-[u]Pourquoi ce besoin existe-t-il ?[/u] 
+<u>Pourquoi ce besoin existe-t-il ?</u>
 Lors des forums et des fêtes de la science, un site Web tel que celui que nous prévoyons de créer permettrait à des lycéens ou des collégiens de découvrir le chiffrement et l'attaque de messages cryptés à travers une interface simple et des exercices de réflexion ludiques. Un élève peut par exemple crypter un message que son camarade devra déchiffrer. Le site permettra dans un premier temps de divertir les visiteurs des fêtes de la science, mais aussi de servir à intéresser certains d'entre eux aux problématiques liées au chiffrement, déchiffrement et aux attaques de ces différents processus.
 
 ### Ce besoin peut-il évoluer ?
