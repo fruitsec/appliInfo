@@ -60,4 +60,14 @@ Permettre de chiffrer et déchiffrer des messages de façon simple, avec plusieu
 -----------
 Notes:
 
-Suggestions auto algo simple à proposer d'ici une semaine ou tout du moins une ébauche. Étude de rege
+Suggestions auto algo simple à proposer d'ici une semaine ou tout du moins une ébauche.
+
+Idées: regex sur le début des mots + contrainte: ne pas proposer des mots peu utilisés à moins qu'on le précise de plus en plus (trouver comment exprimer ça en algo) -> étudier la fréquence des mots dans des livres
+
+Première version chiffrement déchiffrement simplifiés avec clé
+Deuxième version idem + trouver clé à partir d'étude de fréquence
+Troisième version ajout boîte à outils et terminal
+
+En parallèle dvp site
+À la fin install serveur
+
