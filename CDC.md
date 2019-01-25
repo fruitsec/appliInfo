@@ -34,15 +34,15 @@ Le besoin évoluera en même temps que la technologie. Un site simple comme celu
 #### Environnement du produit
 
 * Acteurs
- * Élèves: utilisateurs du site
- * Animateurs: fournissent des explications sur le fonctionnement du site
+   * Élèves: utilisateurs du site
+   * Animateurs: fournissent des explications sur le fonctionnement du site
 * Contraintes
- * C1: être accessible depuis un réseau local
- * C2: permettre de chiffrer/déchiffrer des messages
- * C3: proposer des outils d'aide au déchiffrement
-  * C3.1: analyse fréquentielle des lettres et groupes de lettres
-  * C3.2: suggestion automatique de mots en fonction des lettres trouvées
- * C4: être simple à utiliser et à comprendre
- * C5: proposer une automatisation du déchiffrement 
- * C6: proposer une série d'exercices et/ou un tutoriel pour apprendre à utiliser le site
- * C7: respecter les normes de sécurité (OWASP) 
+   * C1: être accessible depuis un réseau local
+   * C2: permettre de chiffrer/déchiffrer des messages
+   * C3: proposer des outils d'aide au déchiffrement
+   * C3.1: analyse fréquentielle des lettres et groupes de lettres
+   * C3.2: suggestion automatique de mots en fonction des lettres trouvées
+   * C4: être simple à utiliser et à comprendre
+   * C5: proposer une automatisation du déchiffrement 
+   * C6: proposer une série d'exercices et/ou un tutoriel pour apprendre à utiliser le site
+   * C7: respecter les normes de sécurité (OWASP) 
