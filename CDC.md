@@ -46,3 +46,18 @@ Le besoin évoluera en même temps que la technologie. Un site simple comme celu
    * C5: proposer une automatisation du déchiffrement 
    * C6: proposer une série d'exercices et/ou un tutoriel pour apprendre à utiliser le site
    * C7: respecter les normes de sécurité (OWASP) 
+
+#### Énoncé des fonctions de services
+
+##### Fonction principale
+Permettre de chiffrer et déchiffrer des messages de façon simple, avec plusieurs outils permettant d'aider l'utilisateur, tels que les fréquences d’apparitions de chaque lettre pour une l'ange donnée.
+
+##### Fonctionnalités attendues
+(à compléter) 
+
+
+
+-----------
+Notes:
+
+Suggestions auto algo simple à proposer d'ici une semaine ou tout du moins une ébauche. Étude de rege
